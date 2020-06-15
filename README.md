@@ -178,4 +178,3 @@ python .\train\lstm_train.py --num_epoch [int] \
 
 6. Model evaluation
 [05.evaluation.ipynb](https://github.com/MH-Lee/deeplearning_project/blob/master/final_project/notebook_example/05.evaluation.ipynb)
-"# deeplearning_project"
