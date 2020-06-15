@@ -170,6 +170,6 @@ python .\train\lstm_train.py --num_epoch [int] \
 4-1. Train LSTM model(small_class)
 [04-1.LSTM_model_small.ipynb](https://github.com/leemh012/mge51101-20196013/blob/master/final_project/notebook_example/04-1.LSTM_model_small.ipynb)
 
-5. Model evaluation
+6. Model evaluation
 [05.evaluation.ipynb](https://github.com/leemh012/mge51101-20196013/blob/master/final_project/notebook_example/05.evaluation.ipynb)
-"# deeplearning_project" 
+"# deeplearning_project"

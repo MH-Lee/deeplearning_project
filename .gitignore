@@ -1,0 +1,16 @@
+.ipynb_checkpoints/
+lecture_note/
+lecture_code/
+*.pdf
+*.pptx
+__pycache__/
+model_save/
+new_small_class.xlsx
+*.model
+*.h5
+*.sav
+./word2vec_pretrained/text/
+seq_configs.json
+2020-05-28/
+2020-05-31/
+*.xlsx
