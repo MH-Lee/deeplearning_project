@@ -153,22 +153,28 @@ python .\train\lstm_train.py --num_epoch [int] \
 ## 5. Jupyter Notebook link
 
 1. Make dataset jupyer notebook link
-[01.make_dataset.ipynb](https://github.com/leemh012/mge51101-20196013/blob/master/final_project/notebook_example/01.make_dataset.ipynb)
+[01.make_dataset.ipynb](https://github.com/MH-Lee/deeplearning_project/blob/master/notebook_example/01.make_dataset.ipynb)
 
 2. train word_embedding
-[02.word_embedding_train.ipynb](https://github.com/leemh012/mge51101-20196013/blob/master/final_project/notebook_example/02.word_embedding_train.ipynb)
+[02.word_embedding_train.ipynb](https://github.com/MH-Lee/deeplearning_project/blob/master/notebook_example/02.word_embedding_train.ipynb)
 
 3. Train CNN model
-[03.CNN_model.ipynb](https://github.com/MH-Lee/deeplearning_project/blob/master/final_project/notebook_example/03.CNN_model.ipynb)
+[03.CNN_model.ipynb](https://github.com/MH-Lee/deeplearning_project/blob/master/notebook_example/03.CNN_model.ipynb)
 
 3-1. Train CNN model(small_class)
-[03-1.CNN_model_small.ipynb](https://github.com/MH-Lee/deeplearning_project/blob/master/final_project/notebook_example/03-1.CNN_model_small.ipynb)
+[03-1.CNN_model_small.ipynb](https://github.com/MH-Lee/deeplearning_project/blob/master/notebook_example/03-1.CNN_model_small.ipynb)
 
 4. Train LSTM model
-[04.LSTM_model.ipynb](https://github.com/MH-Lee/deeplearning_project/blob/master/final_project/notebook_example/04.LSTM_model.ipynb)
+[04.LSTM_model.ipynb](https://github.com/MH-Lee/deeplearning_project/blob/master/notebook_example/04.LSTM_model.ipynb)
 
 4-1. Train LSTM model(small_class)
-[04-1.LSTM_model_small.ipynb](https://github.com/MH-Lee/deeplearning_project/blob/master/final_project/notebook_example/04-1.LSTM_model_small.ipynb)
+[04-1.LSTM_model_small.ipynb](https://github.com/MH-Lee/deeplearning_project/blob/master/notebook_example/04-1.LSTM_model_small.ipynb)
+
+5. Train AC-BLSTM model
+[04.AC-BLSTM_model.ipynb](https://github.com/MH-Lee/deeplearning_project/blob/master/notebook_example/05.AC-BLSTM_model.ipynb)
+
+5-1. Train AC-BLSTM model(small_class)
+[04-1.LSTM_model_small.ipynb](https://github.com/MH-Lee/deeplearning_project/blob/master/notebook_example/05.AC-BLSTM_model.ipynb)
 
 6. Model evaluation
 [05.evaluation.ipynb](https://github.com/MH-Lee/deeplearning_project/blob/master/final_project/notebook_example/05.evaluation.ipynb)
